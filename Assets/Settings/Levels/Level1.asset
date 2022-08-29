@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fba1eb41418743d3b750aa0fad643c6e, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  _playerPrefab: {fileID: 5552075939917088933, guid: f4e173640e0e4cd4aa007247b290fa51, type: 3}
+  _enemyPrefab: {fileID: 4082451173316516014, guid: 0a1cf3e7028f2fe4d97c5e5dc04433b2, type: 3}
